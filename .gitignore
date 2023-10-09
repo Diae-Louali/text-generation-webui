@@ -36,3 +36,4 @@ Thumbs.db
 .chroma
 installer_files
 /CMD_FLAGS.txt
+.env
